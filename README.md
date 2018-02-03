@@ -1,2 +1,2 @@
 # learnyounode
-My solutions to the **learnyounode** exercises.
+My solutions to exercises in the **learnyounode** workshop.
